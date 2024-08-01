@@ -1,0 +1,13 @@
+{
+"id": 1,
+"question" : "What game is shown in the picture?",
+"image_url" : "https://i.postimg.cc/QHYYQXky/mario.jpg",
+"right_answer" : 1,
+"bonus" : 15,
+"answers" : [
+    "Teenage Mutant Ninja Turtles",
+    "Super Mario",
+    "MORTAL KOMBAT",
+    "Crash Bandicoot"
+]
+}
